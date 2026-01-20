@@ -1,0 +1,7 @@
+{
+  "name": "BarberSaaS Roadmap Tracker",
+  "description": "Um checklist interativo para acompanhar sua evolução no desenvolvimento de um sistema de barbearia SaaS, com mentor de IA integrado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
